@@ -12,5 +12,5 @@ Si vous ajoutez des commandes mettez dans un fichier "New_Commands.md"le nom de 
 
 Le but de ce bot est que ce soit un bot communautaire et qui puisse aider non seulement les keller 1.18 de BeCode
 mais aussi pour toutes les promotions BeCode dans le futur et ce via des outils disponible avec des commandes.
-Le but est que ce bot soit confié à toutes les futures promotions et que chacun puisse l'améliorer au fut et à mesure.
+Le but est que ce bot soit confié à toutes les futures promotions et que chacun puisse l'améliorer au fur et à mesure.
 
